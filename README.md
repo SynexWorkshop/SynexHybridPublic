@@ -1,5 +1,5 @@
 # Synex Hybrid (Public)
-Synex is a hybird client based on EaglerForge 1.8. This is the publicly downloadable version.
+Synex is a hybird client based on EaglerForge 1.8. This is the publicly downloadable version. Currently in beta testing.
 
 ---
 
